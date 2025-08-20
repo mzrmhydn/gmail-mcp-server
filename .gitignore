@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (secrets!)
+.env
+credentials.json
+token.json
+
+# Build output
+dist/

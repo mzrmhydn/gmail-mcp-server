@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "gmail-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/index.js"],
+      "env": {
+        "GMAIL_CREDENTIALS_PATH": "${workspaceFolder}/credentials.json",
+        "GMAIL_TOKEN_PATH": "${workspaceFolder}/token.json",
+        "TZ": "Asia/Karachi"
+      }
+    }
+  }
+}
