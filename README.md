@@ -5,6 +5,14 @@ This server exposes Gmail functions as tools so you can interact with your inbox
 
 ---
 
+## 🎥 Demo
+
+[![Watch Demo](https://img.youtube.com/vi/YhedLMuceyg/hqdefault.jpg)](https://www.youtube.com/watch?v=YhedLMuceyg)
+
+> Click the image or [watch the demo here](https://www.youtube.com/watch?v=YhedLMuceyg)
+
+---
+
 ## 🚀 Features
 - **Send Emails** – Compose and send emails directly from Copilot.  
 - **List Emails** – Fetch recent emails with optional Gmail search queries.  
